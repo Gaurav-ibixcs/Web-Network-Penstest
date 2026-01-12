@@ -10,7 +10,7 @@ This file serves as the **primary reference** for anyone reviewing the project.
 
 ---
 
-### 🛠 setup/
+### setup/
 Contains information related to the **lab configuration**.
 
 #### lab-info.txt
@@ -24,7 +24,7 @@ This ensures the lab can be **recreated easily** by others.
 
 ---
 
-### 📡 scanning/
+### scanning/
 Focused on **network reconnaissance and service discovery**.
 
 #### nmap-basic-scan.txt
@@ -38,7 +38,7 @@ This phase helps define the **attack surface** of the target system.
 
 ---
 
-### 🌐 web-testing/
+### web-testing/
 Dedicated to **basic web application security testing**.
 
 #### basic-web-findings.txt
@@ -53,7 +53,7 @@ performing advanced exploitation.
 
 ---
 
-### ⚠️ analysis/
+### analysis/
 Focuses on **security risk evaluation and impact assessment**.
 
 #### risk-analysis.txt
@@ -68,7 +68,7 @@ not just a tool user.
 
 ---
 
-### 📑 report/
+###  report/
 Contains the **final penetration testing report**.
 
 #### Web-Network-Pentest-Report.md
@@ -84,7 +84,7 @@ This mirrors **industry-standard pentesting deliverables**.
 
 ---
 
-## 🧠 Why This Structure Matters
+##  Why This Structure Matters
 - Follows real-world pentesting methodology
 - Easy for recruiters and interviewers to navigate
 - Demonstrates documentation and reporting skills
@@ -93,7 +93,7 @@ This mirrors **industry-standard pentesting deliverables**.
 
 ---
 
-## 📌 Learning Outcome
+##  Learning Outcome
 This project provides hands-on experience in:
 - Network scanning and enumeration
 - Web vulnerability identification
@@ -102,7 +102,7 @@ This project provides hands-on experience in:
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 All activities were conducted in a **controlled lab environment** for
 educational purposes only. Unauthorized testing of live systems is illegal.
 
